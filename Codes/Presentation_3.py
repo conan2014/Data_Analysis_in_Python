@@ -1,6 +1,6 @@
 # Data Analysis for the Social Sciences Presentation 3
 # Author: Xu (Conan) Huang
-# Topics: Linear and non-linear regression and Confidence Interval
+# Topics: Linear and non-linear regression and Confidence interval
 
 from __future__ import division
 
